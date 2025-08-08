@@ -2,7 +2,7 @@
 
 This repository contains my solutions to various [LeetCode](https://leetcode.com/) problems, implemented in Python.  
 Each problem includes:
-- Problem number and title
+- Problem number
 - Link to the LeetCode problem
 
 ---
