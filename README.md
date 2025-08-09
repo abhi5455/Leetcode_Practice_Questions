@@ -13,15 +13,15 @@ The goal of this challenge is to improve algorithmic thinking, strengthen data s
 
 | #  | Problem | LeetCode Link                                                 | Solution           |
 |----|---------|---------------------------------------------------------------|--------------------|
-| 1  | Fizz Buzz | [🔗 Link](https://leetcode.com/problems/fizz-buzz/)           | [q1.py](./q01.py)   |
-| 2  | Majority Element | [🔗 Link](https://leetcode.com/problems/majority-element/)    | [q2.py](./q02.py)   |
-| 3  | Fibonacci Number | [🔗 Link](https://leetcode.com/problems/fibonacci-number/)    | [q3.py](./q03.py)   |
-| 4  | Roman to Integer | [🔗 Link](https://leetcode.com/problems/roman-to-integer/)    | [q4.py](./q04.py)   |
-| 5  | Contains Duplicate | [🔗 Link](https://leetcode.com/problems/contains-duplicate/)  | [q5.py](./q05.py)   |
-| 6  | Length of Last Word | [🔗 Link](https://leetcode.com/problems/length-of-last-word/) | [q6.py](./q06.py)   |
-| 7  | Move Zeroes | [🔗 Link](https://leetcode.com/problems/move-zeroes/)         | [q7.py](./q07.py)   |
-| 8  | Valid Parentheses | [🔗 Link](https://leetcode.com/problems/valid-parentheses/)   | [q8.py](./q08.py)   |
-| 9  | Two Sum | [🔗 Link](https://leetcode.com/problems/two-sum/)             | [q9.py](./q09.py)   |
+| 1  | Fizz Buzz | [🔗 Link](https://leetcode.com/problems/fizz-buzz/)           | [q01.py](./q01.py) |
+| 2  | Majority Element | [🔗 Link](https://leetcode.com/problems/majority-element/)    | [q02.py](./q02.py) |
+| 3  | Fibonacci Number | [🔗 Link](https://leetcode.com/problems/fibonacci-number/)    | [q03.py](./q03.py) |
+| 4  | Roman to Integer | [🔗 Link](https://leetcode.com/problems/roman-to-integer/)    | [q04.py](./q04.py) |
+| 5  | Contains Duplicate | [🔗 Link](https://leetcode.com/problems/contains-duplicate/)  | [q05.py](./q05.py) |
+| 6  | Length of Last Word | [🔗 Link](https://leetcode.com/problems/length-of-last-word/) | [q06.py](./q06.py) |
+| 7  | Move Zeroes | [🔗 Link](https://leetcode.com/problems/move-zeroes/)         | [q07.py](./q07.py) |
+| 8  | Valid Parentheses | [🔗 Link](https://leetcode.com/problems/valid-parentheses/)   | [q08.py](./q08.py) |
+| 9  | Two Sum | [🔗 Link](https://leetcode.com/problems/two-sum/)             | [q09.py](./q09.py) |
 | 10 | Remove Element | [🔗 Link](https://leetcode.com/problems/remove-element/)      | [q10.py](./q10.py) |
 
 
