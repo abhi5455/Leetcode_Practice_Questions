@@ -18,6 +18,7 @@ The goal of this challenge is to improve algorithmic thinking, strengthen data s
 | 3 | Fibonacci Number | [🔗 Link](https://leetcode.com/problems/fibonacci-number/)   | [q3.py](./q3.py) |
 | 4 | Roman to Integer | [🔗 Link](https://leetcode.com/problems/roman-to-integer/)   | [q4.py](./q4.py) |
 | 5 | Contains Duplicate | [🔗 Link](https://leetcode.com/problems/contains-duplicate/) | [q5.py](./q5.py) |
+| 6 | Length of Last Word | [🔗 Link](https://leetcode.com/problems/length-of-last-word/) | [q6.py](./q6.py) |
 
 
 ---
