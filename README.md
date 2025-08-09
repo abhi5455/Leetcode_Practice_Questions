@@ -11,10 +11,11 @@ The goal of this challenge is to improve algorithmic thinking, strengthen data s
 
 ## 📜 Problem List
 
-| #   | Problem | LeetCode Link                                              | Solution         |
-|-----|---------|------------------------------------------------------------|------------------|
-| 1   | Fizz Buzz | [🔗 Link](https://leetcode.com/problems/fizz-buzz/)        | [q1.py](./q1.py) |
-| 2   | Majority Element | [🔗 Link](https://leetcode.com/problems/majority-element/) | [q2.py](./q2.py) |
+| # | Problem | LeetCode Link                                              | Solution         |
+|---|---------|------------------------------------------------------------|------------------|
+| 1 | Fizz Buzz | [🔗 Link](https://leetcode.com/problems/fizz-buzz/)        | [q1.py](./q1.py) |
+| 2 | Majority Element | [🔗 Link](https://leetcode.com/problems/majority-element/) | [q2.py](./q2.py) |
+| 3 | Fibonacci Number | [🔗 Link](https://leetcode.com/problems/fibonacci-number/) | [q3.py](./q3.py) |
 
 
 ---
