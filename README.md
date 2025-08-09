@@ -1,10 +1,12 @@
-# 🚀 LeetCode Practice Solutions
+# 🚀 LeetCode Questions Challenge
 
-This repository contains my solutions to various [LeetCode](https://leetcode.com/) problems, implemented in Python.  
-Each problem includes:
-- Problem number
-- Link to the LeetCode problem
+This repository contains my solutions to various LeetCode problems, written in Python as part of my coding practice and problem-solving journey.
+The goal of this challenge is to improve algorithmic thinking, strengthen data structures knowledge, and prepare for technical interviews.
 
+## Each solution includes:
+
+- Problem Number & Title – for easy reference.
+- LeetCode Problem Link – direct access to the challenge.
 ---
 
 ## 📜 Problem List
