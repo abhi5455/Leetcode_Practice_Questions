@@ -28,6 +28,7 @@ The goal of this challenge is to improve algorithmic thinking, strengthen data s
 | 13 | Find Smallest Letter Greater Than Target | [🔗 Link](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [q13.py](./q13.py) |
 | 14 | Excel Sheet Column Title | [🔗 Link](https://leetcode.com/problems/excel-sheet-column-title/) | [q14.py](./q14.py) |
 | 15 | Happy Number | [🔗 Link](https://leetcode.com/problems/happy-number/) | [q15.py](./q15.py) |
+| 15 | Score of a String | [🔗 Link](https://leetcode.com/problems/score-of-a-string/) | [q16.py](./q16.py) |
 
 
 ---
