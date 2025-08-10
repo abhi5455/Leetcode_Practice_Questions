@@ -24,6 +24,7 @@ The goal of this challenge is to improve algorithmic thinking, strengthen data s
 | 9  | Two Sum | [🔗 Link](https://leetcode.com/problems/two-sum/)             | [q09.py](./q09.py) |
 | 10 | Remove Element | [🔗 Link](https://leetcode.com/problems/remove-element/)      | [q10.py](./q10.py) |
 | 11 | Merge Sorted Array | [🔗 Link](https://leetcode.com/problems/merge-sorted-array/)  | [q11.py](./q11.py) |
+| 12 | Middle of the Linked List | [🔗 Link](https://leetcode.com/problems/middle-of-the-linked-list/)  | [q12.py](./q12.py) |
 
 
 ---
