@@ -33,6 +33,7 @@ The goal of this challenge is to improve algorithmic thinking, strengthen data s
 | 18 | Insert Greatest Common Divisors in Linked List | [🔗 Link](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/) | [q18.py](./q18.py) |
 | 19 | Build Array from Permutation | [🔗 Link](https://leetcode.com/problems/build-array-from-permutation/) | [q19.py](./q19.py) |
 | 20 | Find Words Containing Character | [🔗 Link](https://leetcode.com/problems/find-words-containing-character/) | [q20.py](./q20.py) |
+| 21 | Concatenation of Array | [🔗 Link](https://leetcode.com/problems/concatenation-of-array/) | [q21.py](./q21.py) |
 
 
 ---
