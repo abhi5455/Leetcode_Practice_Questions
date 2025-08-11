@@ -31,6 +31,7 @@ The goal of this challenge is to improve algorithmic thinking, strengthen data s
 | 16 | Score of a String | [🔗 Link](https://leetcode.com/problems/score-of-a-string/) | [q16.py](./q16.py) |
 | 17 | Plus One | [🔗 Link](https://leetcode.com/problems/plus-one/) | [q17.py](./q17.py) |
 | 18 | Insert Greatest Common Divisors in Linked List | [🔗 Link](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/) | [q18.py](./q18.py) |
+| 19 | Build Array from Permutation | [🔗 Link](https://leetcode.com/problems/build-array-from-permutation/) | [q19.py](./q19.py) |
 
 
 ---
