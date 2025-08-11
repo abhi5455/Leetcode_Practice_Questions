@@ -30,6 +30,7 @@ The goal of this challenge is to improve algorithmic thinking, strengthen data s
 | 15 | Happy Number | [🔗 Link](https://leetcode.com/problems/happy-number/) | [q15.py](./q15.py) |
 | 16 | Score of a String | [🔗 Link](https://leetcode.com/problems/score-of-a-string/) | [q16.py](./q16.py) |
 | 17 | Plus One | [🔗 Link](https://leetcode.com/problems/plus-one/) | [q17.py](./q17.py) |
+| 18 | Insert Greatest Common Divisors in Linked List | [🔗 Link](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/) | [q18.py](./q18.py) |
 
 
 ---
