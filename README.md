@@ -34,7 +34,8 @@ The goal of this challenge is to improve algorithmic thinking, strengthen data s
 | 19 | Build Array from Permutation | [🔗 Link](https://leetcode.com/problems/build-array-from-permutation/) | [q19.py](./q19.py) |
 | 20 | Find Words Containing Character | [🔗 Link](https://leetcode.com/problems/find-words-containing-character/) | [q20.py](./q20.py) |
 | 21 | Concatenation of Array | [🔗 Link](https://leetcode.com/problems/concatenation-of-array/) | [q21.py](./q21.py) |
-| 21 | Defanging an IP Address | [🔗 Link](https://leetcode.com/problems/defanging-an-ip-address/) | [q22.py](./q22.py) |
+| 22 | Defanging an IP Address | [🔗 Link](https://leetcode.com/problems/defanging-an-ip-address/) | [q22.py](./q22.py) |
+| 23 | Number of Good Pairs | [🔗 Link](https://leetcode.com/problems/number-of-good-pairs/) | [q23.py](./q23.py) |
 
 
 ---
