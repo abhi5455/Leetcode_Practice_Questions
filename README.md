@@ -11,9 +11,9 @@ The goal of this challenge is to improve algorithmic thinking, strengthen data s
 
 ## 📜 Problem List
 
-| #  | Problem | LeetCode Link                                      | Solution           |
-|----|--|----------------------------------------------------|--------------------|
-| 1  | Fizz Buzz | [🔗 Link](https://leetcode.com/problems/fizz-buzz/) | [q01.py](./q01.py) |
+| #  | Problem | LeetCode Link                                        | Solution           |
+|----|--|------------------------------------------------------|--------------------|
+| 1  | Fizz Buzz | [🔗 Link](https://leetcode.com/problems/fizz-buzz/)  | [q01.py](./q01.py) |
 | 2  | Majority Element | [🔗 Link](https://leetcode.com/problems/majority-element/) | [q02.py](./q02.py) |
 | 3  | Fibonacci Number | [🔗 Link](https://leetcode.com/problems/fibonacci-number/) | [q03.py](./q03.py) |
 | 4  | Roman to Integer | [🔗 Link](https://leetcode.com/problems/roman-to-integer/) | [q04.py](./q04.py) |
@@ -21,7 +21,7 @@ The goal of this challenge is to improve algorithmic thinking, strengthen data s
 | 6  | Length of Last Word | [🔗 Link](https://leetcode.com/problems/length-of-last-word/) | [q06.py](./q06.py) |
 | 7  | Move Zeroes | [🔗 Link](https://leetcode.com/problems/move-zeroes/) | [q07.py](./q07.py) |
 | 8  | Valid Parentheses | [🔗 Link](https://leetcode.com/problems/valid-parentheses/) | [q08.py](./q08.py) |
-| 9  | Two Sum | [🔗 Link](https://leetcode.com/problems/two-sum/)  | [q09.py](./q09.py) |
+| 9  | Two Sum | [🔗 Link](https://leetcode.com/problems/two-sum/)    | [q09.py](./q09.py) |
 | 10 | Remove Element | [🔗 Link](https://leetcode.com/problems/remove-element/) | [q10.py](./q10.py) |
 | 11 | Merge Sorted Array | [🔗 Link](https://leetcode.com/problems/merge-sorted-array/) | [q11.py](./q11.py) |
 | 12 | Middle of the Linked List | [🔗 Link](https://leetcode.com/problems/middle-of-the-linked-list/) | [q12.py](./q12.py) |
@@ -29,7 +29,7 @@ The goal of this challenge is to improve algorithmic thinking, strengthen data s
 | 14 | Excel Sheet Column Title | [🔗 Link](https://leetcode.com/problems/excel-sheet-column-title/) | [q14.py](./q14.py) |
 | 15 | Happy Number | [🔗 Link](https://leetcode.com/problems/happy-number/) | [q15.py](./q15.py) |
 | 16 | Score of a String | [🔗 Link](https://leetcode.com/problems/score-of-a-string/) | [q16.py](./q16.py) |
-| 17 | Plus One | [🔗 Link](https://leetcode.com/problems/plus-one/) | [q17.py](./q17.py) |
+| 17 | Plus One | [🔗 Link](https://leetcode.com/problems/plus-one/)   | [q17.py](./q17.py) |
 | 18 | Insert Greatest Common Divisors in Linked List | [🔗 Link](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/) | [q18.py](./q18.py) |
 | 19 | Build Array from Permutation | [🔗 Link](https://leetcode.com/problems/build-array-from-permutation/) | [q19.py](./q19.py) |
 | 20 | Find Words Containing Character | [🔗 Link](https://leetcode.com/problems/find-words-containing-character/) | [q20.py](./q20.py) |
@@ -41,6 +41,7 @@ The goal of this challenge is to improve algorithmic thinking, strengthen data s
 | 26 | Check if the Sentence Is Pangram | [🔗 Link](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | [q26.py](./q26.py) |
 | 27 | Maximum Number of Words Found in Sentences | [🔗 Link](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) | [q27.py](./q27.py) |
 | 28 | Find First Palindromic String in the Array | [🔗 Link](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) | [q28.py](./q28.py) |
+| 29 | Number of Employees Who Met the Target | [🔗 Link](https://leetcode.com/problems/number-of-employees-who-met-the-target/) | [q29.py](./q29.py) |
 
 
 ---
