@@ -39,6 +39,7 @@ The goal of this challenge is to improve algorithmic thinking, strengthen data s
 | 24 | Add Digits | [🔗 Link](https://leetcode.com/problems/add-digits/) | [q24.py](./q24.py) |
 | 25 | Minimum Number Game | [🔗 Link](https://leetcode.com/problems/minimum-number-game/) | [q25.py](./q25.py) |
 | 26 | Check if the Sentence Is Pangram | [🔗 Link](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | [q26.py](./q26.py) |
+| 27 | Maximum Number of Words Found in Sentences | [🔗 Link](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) | [q27.py](./q27.py) |
 
 
 ---
