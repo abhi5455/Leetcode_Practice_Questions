@@ -37,6 +37,7 @@ The goal of this challenge is to improve algorithmic thinking, strengthen data s
 | 22 | Defanging an IP Address | [🔗 Link](https://leetcode.com/problems/defanging-an-ip-address/) | [q22.py](./q22.py) |
 | 23 | Number of Good Pairs | [🔗 Link](https://leetcode.com/problems/number-of-good-pairs/) | [q23.py](./q23.py) |
 | 24 | Add Digits | [🔗 Link](https://leetcode.com/problems/add-digits/) | [q24.py](./q24.py) |
+| 25 | Minimum Number Game | [🔗 Link](https://leetcode.com/problems/minimum-number-game/) | [q25.py](./q25.py) |
 
 
 ---
