@@ -40,10 +40,11 @@ The goal of this challenge is to improve algorithmic thinking, strengthen data s
 | 25 | Minimum Number Game | [🔗 Link](https://leetcode.com/problems/minimum-number-game/) | [q25.py](./q25.py) |
 | 26 | Check if the Sentence Is Pangram | [🔗 Link](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | [q26.py](./q26.py) |
 | 27 | Maximum Number of Words Found in Sentences | [🔗 Link](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) | [q27.py](./q27.py) |
-| 28 | Find First Palindromic String in the Array | [🔗 Link](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) | [q28.py](./q28.py) |
-| 29 | Number of Employees Who Met the Target | [🔗 Link](https://leetcode.com/problems/number-of-employees-who-met-the-target/) | [q29.py](./q29.py) |
-| 30 | Sum Multiples | [🔗 Link](https://leetcode.com/problems/sum-multiples/) | [q30.py](./q30.py) |
-| 31 | XOR Operation in an Array | [🔗 Link](https://leetcode.com/problems/xor-operation-in-an-array/) | [q31.py](./q31.py) |
+| 28 | Count the Digits That Divide a Number | [🔗 Link](https://leetcode.com/problems/count-the-digits-that-divide-a-number/) | [q28.py](./q28.py) |
+| 29 | Find First Palindromic String in the Array | [🔗 Link](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) | [q29.py](./q29.py) |
+| 30 | Number of Employees Who Met the Target | [🔗 Link](https://leetcode.com/problems/number-of-employees-who-met-the-target/) | [q30.py](./q30.py) |
+| 31 | Sum Multiples | [🔗 Link](https://leetcode.com/problems/sum-multiples/) | [q31.py](./q31.py) |
+| 32 | XOR Operation in an Array | [🔗 Link](https://leetcode.com/problems/xor-operation-in-an-array/) | [q32.py](./q32.py) |
 
 
 ---

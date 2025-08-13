@@ -1,7 +1,6 @@
 class Solution(object):
-    def numberOfEmployeesWhoMetTarget(self, hours, target):
-        count = 0
-        for x in hours:
-            if x >= target:
-                count += 1
-        return count
+    def firstPalindrome(self, words):
+        for word in words:
+            if word == word[::-1]:
+                return word
+        return ""

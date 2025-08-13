@@ -1,7 +1,7 @@
 class Solution(object):
-    def sumOfMultiples(self, n):
-        sum = 0
-        for i in range(n + 1):
-            if i % 3 == 0 or i % 5 == 0 or i % 7 == 0:
-                sum += i
-        return sum
+    def numberOfEmployeesWhoMetTarget(self, hours, target):
+        count = 0
+        for x in hours:
+            if x >= target:
+                count += 1
+        return count
