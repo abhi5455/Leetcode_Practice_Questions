@@ -45,6 +45,7 @@ The goal of this challenge is to improve algorithmic thinking, strengthen data s
 | 30 | Number of Employees Who Met the Target | [🔗 Link](https://leetcode.com/problems/number-of-employees-who-met-the-target/) | [q30.py](./q30.py) |
 | 31 | Sum Multiples | [🔗 Link](https://leetcode.com/problems/sum-multiples/) | [q31.py](./q31.py) |
 | 32 | XOR Operation in an Array | [🔗 Link](https://leetcode.com/problems/xor-operation-in-an-array/) | [q32.py](./q32.py) |
+| 33 | Divisible and Non-divisible Sums Difference | [🔗 Link](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | [q33.py](./q33.py) |
 
 
 ---
