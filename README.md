@@ -43,6 +43,7 @@ The goal of this challenge is to improve algorithmic thinking, strengthen data s
 | 28 | Find First Palindromic String in the Array | [🔗 Link](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) | [q28.py](./q28.py) |
 | 29 | Number of Employees Who Met the Target | [🔗 Link](https://leetcode.com/problems/number-of-employees-who-met-the-target/) | [q29.py](./q29.py) |
 | 30 | Sum Multiples | [🔗 Link](https://leetcode.com/problems/sum-multiples/) | [q30.py](./q30.py) |
+| 31 | XOR Operation in an Array | [🔗 Link](https://leetcode.com/problems/xor-operation-in-an-array/) | [q31.py](./q31.py) |
 
 
 ---
