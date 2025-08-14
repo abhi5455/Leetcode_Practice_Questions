@@ -49,6 +49,7 @@ The goal of this challenge is to improve algorithmic thinking, strengthen data s
 | 34 | Number of Changing Keys | [🔗 Link](https://leetcode.com/problems/number-of-changing-keys/) | [q34.py](./q34.py) |
 | 35 | Final Value of Variable After Performing Operations | [🔗 Link](https://leetcode.com/final-value-of-variable-after-performing-operations/) | [q35.py](./q35.py) |
 | 36 | Smallest Even Multiple | [🔗 Link](https://leetcode.com/problems/smallest-even-multiple/) | [q36.py](./q36.py) |
+| 38 | Best Time to Buy and Sell Stock | [🔗 Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [q38.py](./q38.py) |
 
 
 ---
