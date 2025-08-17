@@ -56,6 +56,7 @@ The goal of this challenge is to improve algorithmic thinking, strengthen data s
 | 41 | Subtract the Product and Sum of Digits of an Integer | [🔗 Link](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [q41.py](./q41.py) |
 | 42 | Three Consecutive Odds | [🔗 Link](https://leetcode.com/problems/three-consecutive-odds/) | [q42.py](./q42.py) |
 | 43 | Sign of the Product of an Array | [🔗 Link](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | [q43.py](./q43.py) |
+| 44 | Baseball Game | [🔗 Link](https://leetcode.com/problems/baseball-game/) | [q44.py](./q44.py) |
 
 
 ---
