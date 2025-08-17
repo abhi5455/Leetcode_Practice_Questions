@@ -9,6 +9,7 @@ class Solution(object):
                 doubleSum += num
         return singleSum != doubleSum
 
+
 # Another Solution
 
 # class Solution(object):
