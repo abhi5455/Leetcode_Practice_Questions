@@ -10,7 +10,7 @@ class Solution(object):
 #         i = 0
 #         j = len(nums) - 1
 #         while i <= j:
-#             if nums[i]**2 > nums[j]**2:
+#             if abs(nums[i]) > abs(nums[j]):
 #                 squares.append(nums[i]**2)
 #                 i += 1
 #             else:
