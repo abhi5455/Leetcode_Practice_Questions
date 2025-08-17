@@ -52,6 +52,7 @@ The goal of this challenge is to improve algorithmic thinking, strengthen data s
 | 37 | Climbing Stairs | [🔗 Link](https://leetcode.com/problems/climbing-stairs/) | [q37.py](./q37.py) |
 | 38 | Best Time to Buy and Sell Stock | [🔗 Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [q38.py](./q38.py) |
 | 39 | Squares of a Sorted Array | [🔗 Link](https://leetcode.com/problems/squares-of-a-sorted-array/) | [q39.py](./q39.py) |
+| 40 | Find the Maximum Achievable Number | [🔗 Link](https://leetcode.com/problems/find-the-maximum-achievable-number/) | [q40.py](./q40.py) |
 
 
 ---
