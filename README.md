@@ -54,6 +54,7 @@ The goal of this challenge is to improve algorithmic thinking, strengthen data s
 | 39 | Squares of a Sorted Array | [🔗 Link](https://leetcode.com/problems/squares-of-a-sorted-array/) | [q39.py](./q39.py) |
 | 40 | Find the Maximum Achievable Number | [🔗 Link](https://leetcode.com/problems/find-the-maximum-achievable-number/) | [q40.py](./q40.py) |
 | 41 | Subtract the Product and Sum of Digits of an Integer | [🔗 Link](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [q41.py](./q41.py) |
+| 42 | Three Consecutive Odds | [🔗 Link](https://leetcode.com/problems/three-consecutive-odds/) | [q42.py](./q42.py) |
 
 
 ---
