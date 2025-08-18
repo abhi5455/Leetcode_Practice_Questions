@@ -12,4 +12,3 @@ class Solution(object):
             else:
                 outStr += s[i]
         return outStr
-
