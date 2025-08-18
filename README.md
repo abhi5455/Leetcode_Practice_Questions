@@ -59,6 +59,7 @@ The goal of this challenge is to improve algorithmic thinking, strengthen data s
 | 44 | Baseball Game | [🔗 Link](https://leetcode.com/problems/baseball-game/) | [q44.py](./q44.py) |
 | 45 | Robot Return to Origin | [🔗 Link](https://leetcode.com/problems/robot-return-to-origin/) | [q45.py](./q45.py) |
 | 46 | Find if Digit Game Can Be Won | [🔗 Link](https://leetcode.com/problems/find-if-digit-game-can-be-won/) | [q46.py](./q46.py) |
+| 47 | Reverse Vowels of a String | [🔗 Link](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [q47.py](./q47.py) |
 
 
 ---
