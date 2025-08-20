@@ -63,6 +63,7 @@ The goal of this challenge is to improve algorithmic thinking, strengthen data s
 | 48 | Can Place Flowers | [🔗 Link](https://leetcode.com/problems/can-place-flowers/) | [q48.py](./q48.py) |
 | 49 | Kids With the Greatest Number of Candies | [🔗 Link](http://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [q49.py](./q49.py) |
 | 50 | Reverse Words in a String | [🔗 Link](https://leetcode.com/problems/reverse-words-in-a-string/) | [q50.py](./q50.py) |
+| 51 | Product of Array Except Self | [🔗 Link](https://leetcode.com/problems/product-of-array-except-self/) | [q51.py](./q51.py) |
 
 
 ---
