@@ -65,6 +65,7 @@ The goal of this challenge is to improve algorithmic thinking, strengthen data s
 | 50 | Reverse Words in a String | [🔗 Link](https://leetcode.com/problems/reverse-words-in-a-string/) | [q50.py](./q50.py) |
 | 51 | Product of Array Except Self | [🔗 Link](https://leetcode.com/problems/product-of-array-except-self/) | [q51.py](./q51.py) |
 | 52 | Is Subsequence | [🔗 Link](https://leetcode.com/problems/is-subsequence/) | [q52.py](./q52.py) |
+| 53 | Container With Most Water | [🔗 Link](https://leetcode.com/problems/container-with-most-water/) | [q53.py](./q53.py) |
 
 
 ---
