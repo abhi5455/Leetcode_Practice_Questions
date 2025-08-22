@@ -66,6 +66,7 @@ The goal of this challenge is to improve algorithmic thinking, strengthen data s
 | 51 | Product of Array Except Self | [🔗 Link](https://leetcode.com/problems/product-of-array-except-self/) | [q51.py](./q51.py) |
 | 52 | Is Subsequence | [🔗 Link](https://leetcode.com/problems/is-subsequence/) | [q52.py](./q52.py) |
 | 53 | Container With Most Water | [🔗 Link](https://leetcode.com/problems/container-with-most-water/) | [q53.py](./q53.py) |
+| 54 | Find the Middle Index in Array | [🔗 Link](https://leetcode.com/problems/find-the-middle-index-in-array/) | [q54.py](./q54.py) |
 
 
 ---
