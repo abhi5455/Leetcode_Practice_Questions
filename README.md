@@ -67,6 +67,7 @@ The goal of this challenge is to improve algorithmic thinking, strengthen data s
 | 52 | Is Subsequence | [🔗 Link](https://leetcode.com/problems/is-subsequence/) | [q52.py](./q52.py) |
 | 53 | Container With Most Water | [🔗 Link](https://leetcode.com/problems/container-with-most-water/) | [q53.py](./q53.py) |
 | 54 | Find the Middle Index in Array | [🔗 Link](https://leetcode.com/problems/find-the-middle-index-in-array/) | [q54.py](./q54.py) |
+| 57 | Find the Difference of Two Arrays | [🔗 Link](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | [q55.py](./q55.py) |
 | 57 | Find Pivot Index | [🔗 Link](https://leetcode.com/problems/find-pivot-index/) | [q57.py](./q57.py) |
 
 
