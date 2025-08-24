@@ -70,6 +70,7 @@ The goal of this challenge is to improve algorithmic thinking, strengthen data s
 | 55 | Find the Difference of Two Arrays | [🔗 Link](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | [q55.py](./q55.py) |
 | 56 | Unique Number of Occurrences | [🔗 Link](https://leetcode.com/problems/unique-number-of-occurrences/) | [q56.py](./q56.py) |
 | 57 | Find Pivot Index | [🔗 Link](https://leetcode.com/problems/find-pivot-index/) | [q57.py](./q57.py) |
+| 58 | Delete the Middle Node of a Linked List | [🔗 Link](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | [q58.py](./q58.py) |
 
 
 ---
