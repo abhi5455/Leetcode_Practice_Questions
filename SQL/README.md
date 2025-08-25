@@ -11,9 +11,10 @@ The goal of this challenge is to strengthen SQL query writing skills, database c
 
 ## 📜 Problem List
 
-| #  | Problem | LeetCode Link                                            | Solution             |
-|----|--|----------------------------------------------------------|----------------------|
-| 1  | Customer Placing the Largest Number of Orders | [🔗 Link](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | [q01.sql](./q01.sql) |
+| # | Problem | LeetCode Link                                            | Solution             |
+|---|--|----------------------------------------------------------|----------------------|
+| 1 | Customer Placing the Largest Number of Orders | [🔗 Link](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | [q01.sql](./q01.sql) |
+| 2 | Rank Scores | [🔗 Link](https://leetcode.com/problems/rank-scores/) | [q02.sql](./q02.sql) |
 
 
 ---
