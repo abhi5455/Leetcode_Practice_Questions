@@ -4,4 +4,4 @@ FROM (
     FROM MyNumbers
     GROUP BY num
     HAVING COUNT(num) = 1
-) AS subq
+) AS subq;

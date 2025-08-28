@@ -8,4 +8,4 @@ HAVING COUNT(*) = (
         FROM Orders
         GROUP BY customer_number
     ) AS counts
-)
+);
