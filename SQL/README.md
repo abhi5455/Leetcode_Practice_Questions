@@ -19,7 +19,8 @@ The goal of this challenge is to strengthen SQL query writing skills, database c
 | 4 | Biggest Single Number | [🔗 Link](https://leetcode.com/problems/biggest-single-number/) | [q04.sql](./q04.sql) |
 | 5 | Big Countries | [🔗 Link](https://leetcode.com/problems/big-countries/) | [q05.sql](./q05.sql) |
 | 6 | Sales Person | [🔗 Link](https://leetcode.com/problems/sales-person/) | [q06.sql](./q06.sql) |
-| 6 | Not Boring Movies | [🔗 Link](https://leetcode.com/problems/not-boring-movies/) | [q07.sql](./q07.sql) |
+| 7 | Not Boring Movies | [🔗 Link](https://leetcode.com/problems/not-boring-movies/) | [q07.sql](./q07.sql) |
+| 8 | Second Highest Salary | [🔗 Link](https://leetcode.com/problems/second-highest-salary/) | [q08.sql](./q08.sql) |
 
 
 ---
