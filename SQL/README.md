@@ -21,6 +21,7 @@ The goal of this challenge is to strengthen SQL query writing skills, database c
 | 6 | Sales Person | [🔗 Link](https://leetcode.com/problems/sales-person/) | [q06.sql](./q06.sql) |
 | 7 | Not Boring Movies | [🔗 Link](https://leetcode.com/problems/not-boring-movies/) | [q07.sql](./q07.sql) |
 | 8 | Second Highest Salary | [🔗 Link](https://leetcode.com/problems/second-highest-salary/) | [q08.sql](./q08.sql) |
+| 9 | Department Highest Salary | [🔗 Link](https://leetcode.com/problems/department-highest-salary/) | [q09.sql](./q09.sql) |
 
 
 ---
