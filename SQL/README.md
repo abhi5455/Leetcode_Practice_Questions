@@ -23,6 +23,7 @@ It’s designed to help you practice SQL queries, improve your database skills, 
 | 8  | Second Highest Salary | [🔗 Link](https://leetcode.com/problems/second-highest-salary/) | [q08.sql](./q08.sql) |
 | 9  | Department Highest Salary | [🔗 Link](https://leetcode.com/problems/department-highest-salary/) | [q09.sql](./q09.sql) |
 | 10 | Swap Salary | [🔗 Link](https://leetcode.com/problems/swap-salary/) | [q10.sql](./q10.sql) |
+| 11 | Combine Two Tables | [🔗 Link](https://leetcode.com/problems/combine-two-tables/) | [q11.sql](./q11.sql) |
 
 
 ---
