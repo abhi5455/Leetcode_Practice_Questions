@@ -1,7 +1,7 @@
 # 🚀 LeetCode Questions Challenge
 
-This repository contains my solutions to various LeetCode problems, written in Python as part of my coding practice and problem-solving journey.
-The goal of this challenge is to improve algorithmic thinking, strengthen data structures knowledge, and prepare for technical interviews.
+This repository provides direct links to LeetCode questions along with sample Python solutions. 
+It’s designed to help you practice coding, strengthen your grasp of algorithms and data structures, and get interview-ready.
 
 ## Each solution includes:
 

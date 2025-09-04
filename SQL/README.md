@@ -1,8 +1,8 @@
 # 🚀 LeetCode Questions Challenge
 
-This repository contains my solutions to various LeetCode Database (SQL) problems, written as part of my coding practice and interview preparation journey.
+This repository provides direct links to LeetCode Database (SQL) problems along with sample solutions. 
+It’s designed to help you practice SQL queries, improve your database skills, and prepare for technical interviews.
 
-The goal of this challenge is to strengthen SQL query writing skills, database concepts, and problem-solving ability.
 ## Each solution includes:
 
 - Problem Number & Title – for easy reference.
