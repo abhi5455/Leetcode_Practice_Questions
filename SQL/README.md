@@ -30,4 +30,4 @@ It’s designed to help you practice SQL queries, improve your database skills, 
 ## 🛠 How to Run
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/leetcode-solutions.git
+git clone https://github.com/abhi5455/Leetcode_Practice_Questions.git
