@@ -26,6 +26,7 @@ It’s designed to help you practice SQL queries, improve your database skills, 
 | 11 | Combine Two Tables | [🔗 Link](https://leetcode.com/problems/combine-two-tables/) | [q11.sql](./q11.sql) |
 | 12 | Customers Who Never Order | [🔗 Link](https://leetcode.com/problems/customers-who-never-order/) | [q12.sql](./q12.sql) |
 | 13 | Delete Duplicate Emails | [🔗 Link](https://leetcode.com/problems/delete-duplicate-emails/) | [q13.sql](./q13.sql) |
+| 14 | Rising Temperature | [🔗 Link](https://leetcode.com/problems/rising-temperature/) | [q14.sql](./q14.sql) |
 
 
 ---
