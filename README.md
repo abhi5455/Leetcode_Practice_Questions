@@ -74,6 +74,7 @@ It’s designed to help you practice coding, strengthen your grasp of algorithms
 | 59 | Maximum Area of Longest Diagonal Rectangle | [🔗 Link](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/) | [q59.py](./q59.py) |
 | 60 | Find Closest Person | [🔗 Link](https://leetcode.com/problems/find-closest-person/) | [q60.py](./q60.py) |
 | 61 | Score of a String | [🔗 Link](https://leetcode.com/problems/score-of-a-string/) | [q61.py](./q61.py) |
+| 62 | Insert Greatest Common Divisors in Linked List | [🔗 Link](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/) | [q62.py](./q62.py) |
 
 
 ---
