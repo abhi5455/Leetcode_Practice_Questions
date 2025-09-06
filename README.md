@@ -72,6 +72,7 @@ It’s designed to help you practice coding, strengthen your grasp of algorithms
 | 57 | Find Pivot Index | [🔗 Link](https://leetcode.com/problems/find-pivot-index/) | [q57.py](./q57.py) |
 | 58 | Delete the Middle Node of a Linked List | [🔗 Link](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | [q58.py](./q58.py) |
 | 59 | Maximum Area of Longest Diagonal Rectangle | [🔗 Link](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/) | [q59.py](./q59.py) |
+| 60 | Maximum Area of Longest Diagonal Rectangle | [🔗 Link](https://leetcode.com/problems/find-closest-person/) | [q60.py](./q60.py) |
 
 
 ---
