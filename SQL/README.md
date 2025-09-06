@@ -28,6 +28,7 @@ It’s designed to help you practice SQL queries, improve your database skills, 
 | 13 | Delete Duplicate Emails | [🔗 Link](https://leetcode.com/problems/delete-duplicate-emails/) | [q13.sql](./q13.sql) |
 | 14 | Rising Temperature | [🔗 Link](https://leetcode.com/problems/rising-temperature/) | [q14.sql](./q14.sql) |
 | 15 | Game Play Analysis I | [🔗 Link](https://leetcode.com/problems/game-play-analysis-i/) | [q15.sql](./q15.sql) |
+| 16 | Product Sales Analysis I | [🔗 Link](https://leetcode.com/problems/product-sales-analysis-i/) | [q16.sql](./q16.sql) |
 
 
 ---
