@@ -73,6 +73,7 @@ It’s designed to help you practice coding, strengthen your grasp of algorithms
 | 58 | Delete the Middle Node of a Linked List | [🔗 Link](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | [q58.py](./q58.py) |
 | 59 | Maximum Area of Longest Diagonal Rectangle | [🔗 Link](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/) | [q59.py](./q59.py) |
 | 60 | Find Closest Person | [🔗 Link](https://leetcode.com/problems/find-closest-person/) | [q60.py](./q60.py) |
+| 61 | Score of a String | [🔗 Link](https://leetcode.com/problems/score-of-a-string/) | [q61.py](./q61.py) |
 
 
 ---
