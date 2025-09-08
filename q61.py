@@ -1,6 +1,13 @@
 class Solution(object):
-    def scoreOfString(self, s):
-        score = 0
-        for i in range(0, len(s) - 1):
-            score += abs(ord(s[i]) - ord(s[i + 1]))
-        return score
+    def pivotArray(self, nums, pivot):
+        lt = []
+        gt = []
+        eq = []
+        for x in nums:
+            if x < pivot:
+                lt.append(x)
+            elif x > pivot:
+                gt.append(x)
+            else:
+                eq.append(x)
+        return lt + eq + gt
