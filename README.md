@@ -73,10 +73,8 @@ It’s designed to help you practice coding, strengthen your grasp of algorithms
 | 58 | Delete the Middle Node of a Linked List | [🔗 Link](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | [q58.py](./q58.py) |
 | 59 | Maximum Area of Longest Diagonal Rectangle | [🔗 Link](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/) | [q59.py](./q59.py) |
 | 60 | Find Closest Person | [🔗 Link](https://leetcode.com/problems/find-closest-person/) | [q60.py](./q60.py) |
-| 61 | Score of a String | [🔗 Link](https://leetcode.com/problems/score-of-a-string/) | [q61.py](./q61.py) |
-| 62 | Insert Greatest Common Divisors in Linked List | [🔗 Link](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/) | [q62.py](./q62.py) |
-| 63 | Concatenation of Array | [🔗 Link](https://leetcode.com/problems/concatenation-of-array/) | [q63.py](./q63.py) |
-| 64 | Partition Array According to Given Pivot | [🔗 Link](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | [q64.py](./q64.py) |
+| 61 | Partition Array According to Given Pivot | [🔗 Link](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | [q61.py](./q61.py) |
+| 62 | Convert Integer to the Sum of Two No-Zero Integers | [🔗 Link](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | [q62.py](./q62.py) |
 
 
 ---
