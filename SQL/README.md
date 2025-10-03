@@ -30,6 +30,7 @@ It’s designed to help you practice SQL queries, improve your database skills, 
 | 15 | Game Play Analysis I | [🔗 Link](https://leetcode.com/problems/game-play-analysis-i/) | [q15.sql](./q15.sql) |
 | 16 | Product Sales Analysis I | [🔗 Link](https://leetcode.com/problems/product-sales-analysis-i/) | [q16.sql](./q16.sql) |
 | 17 | Investments in 2016 | [🔗 Link](https://leetcode.com/problems/investments-in-2016/) | [q17.sql](./q17.sql) |
+| 18 | Investments in 2016 | [🔗 Link](https://leetcode.com/problems/article-views-i/) | [q18.sql](./q18.sql) |
 
 
 ---
